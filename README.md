@@ -40,6 +40,3 @@ Phone numbers are retrieved from the web app, however email addresses must be
 provided in the users.csv file
 
 
-## Links:
-
-https://www.fullstackpython.com/blog/send-sms-text-messages-python.html
